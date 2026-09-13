@@ -37,14 +37,15 @@ from data_brain import (
 
 app = FastAPI(title="InsightOS Core API", version="0.3.0")
 
-# Allow local frontend development servers
+# Allow local frontend development servers and production Vercel frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
         "http://127.0.0.1:3000",
         "http://localhost:5173",
-        "http://127.0.0.1:5173"
+        "http://127.0.0.1:5173",
+        "https://insight-os-taupe.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
