@@ -1,0 +1,11 @@
+Ticket ID,Customer Name,Issue Type,Priority,Status,Date,Resolution
+TKT-1001,John Doe,Login,High,Open,01/06/2026,Reset password
+TKT-1002,Jane Smith,Billing,Medium,In Progress,02/06/2026,Pending
+TKT-1003,Alice Johnson,Feature Request,Low,Resolved,03/06/2026,Implemented
+TKT-1004,Bob Brown,Bug,Critical,Open,04/06/2026,Pending
+TKT-1005,Charlie Davis,Login,Medium,Resolved,05/06/2026,Fixed
+TKT-1006,Eva Green,Billing,Low,In Progress,06/06/2026,Pending
+TKT-1007,Frank White,Bug,High,Open,07/06/2026,Investigating
+TKT-1008,Grace Hall,Feature Request,Medium,Resolved,08/06/2026,Implemented
+TKT-1009,Henry Ford,Login,Critical,In Progress,09/06/2026,Pending
+TKT-1010,Ivy League,Billing,Low,Open,10/06/2026,Pending
